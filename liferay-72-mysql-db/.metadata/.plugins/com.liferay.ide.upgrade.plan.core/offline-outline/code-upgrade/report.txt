@@ -1,0 +1,82 @@
+Error summary :
+	1.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/06-upgrading-core-language-key-hooks.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	2.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/10-upgrading-frameworks-and-features/03-upgrading-service-builder-service-invocation.markdown
+	Untreatable Link : /docs/7-2/frameworks/-/knowledge_base/f/using-a-service-tracker
+
+	3.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/09-upgrading-layout-templates/02-upgrading-6.2-layouts-7.2/01-upgrading-6-2-layout-templates-intro.markdown
+	Untreatable Link : /docs/7-2/frameworks/-/knowledge_base/f/layout-templates-intro
+
+	4.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/08-upgrading-themes/02-upgrading-6.2-themes-7.2/02-setting-up-the-development-environment/02-installing-the-theme-generator.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/setting-up-your-npm-environment
+
+	5.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/02-upgrading-customization-modules.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/customizing-jsps
+
+	6.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/02-upgrading-a-genericportlet.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	7.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/04-upgrading-portlet-jsp-hooks.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/customizing-jsps
+
+	8.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/07-upgrading-portlet-language-key-hooks.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	9.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/13-upgrading-ext-plugins.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/customization-with-ext
+
+	10.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/05-upgrading-a-servlet-based-portlet.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/configuring-dependencies
+
+	11.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/06-upgrading-a-spring-portlet-mvc-portlet.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	12.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/12-upgrading-struts-action-hooks.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/overriding-mvcresourcecommand
+
+	13.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/07-upgrading-a-struts-1-portlet.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	14.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/07-upgrading-customization-plugins/03-upgrading-core-jsp-hooks.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/customizing-jsps
+
+	15.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/04-upgrading-a-liferay-jsf-portlet.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	16.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/08-upgrading-themes/03-upgrading-7.0-themes-7.2/03-updating-7.0-css-code/02-renaming-7-0-css-files.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/theme-reference-guide
+
+	17.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/03-migrating-plugins-sdk-projects-to-liferay-workspace.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/liferay-workspace#workspace-anatomy
+
+	18.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/02-upgrading-your-development-environment.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/managing-your-liferay-server-with-blade-cli
+
+	19.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/12-upgrading-web-plugins.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	20.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/11-upgrading-portlets/03-upgrading-a-liferay-mvc-portlet.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	21.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/08-upgrading-themes/02-upgrading-6.2-themes-7.2/06-updating-the-resources-importer-configuration-and-content/04-updating-the-sitemap.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/fully-qualified-portlet-ids
+
+	22.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/05-fixing-upgrade-problems/02-resolving-a-projects-dependencies.markdown
+	Untreatable Link : /docs/7-2/customization/-/knowledge_base/c/configuring-dependencies
+
+	23.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/01-intro.markdown
+	Untreatable Link : /docs/7-2/deploy/-/knowledge_base/d/upgrading-to-product-ver
+
+	24.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/10-upgrading-frameworks-and-features/04-upgrading-service-builder.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/deploying-a-project
+
+	25.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/04-upgrading-build-dependencies.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/managing-the-target-platform
+
+	26.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/06-upgrading-service-builder-services/03-converting-a-service-builder-module-from-spring-di-to-osgi-ds.markdown
+	Untreatable Link : /docs/7-2/frameworks/-/knowledge_base/f/declarative-services
+
+	27.File Location : /home/simon/work/github/liferay-ide/build/liferay-docs-offline/liferay-docs-20200923-2/en/developer/tutorials/articles/03-upgrading-code-to-liferay-7.2/05-fixing-upgrade-problems/03-resolving-breaking-changes.markdown
+	Untreatable Link : /docs/7-2/reference/-/knowledge_base/r/liferay-upgrade-planner
+

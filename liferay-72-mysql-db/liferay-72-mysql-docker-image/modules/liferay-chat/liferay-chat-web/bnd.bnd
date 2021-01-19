@@ -1,0 +1,5 @@
+Bundle-Name: liferay-chat-web
+Bundle-SymbolicName: liferay.chat.web
+Bundle-Version: 1.0.0
+Export-Package: liferay.chat.web.constants
+Web-ContextPath: /liferay-chat-web

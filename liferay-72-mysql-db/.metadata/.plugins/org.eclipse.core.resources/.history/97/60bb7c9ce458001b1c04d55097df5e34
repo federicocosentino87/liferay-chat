@@ -1,0 +1,5 @@
+package liferay.chat.model;
+
+public enum MessageType {
+
+}

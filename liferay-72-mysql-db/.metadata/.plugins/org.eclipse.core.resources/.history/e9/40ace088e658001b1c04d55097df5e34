@@ -1,0 +1,5 @@
+package liferay.chat.model;
+
+public class ChatUser {
+
+}

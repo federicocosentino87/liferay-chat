@@ -1,0 +1,12 @@
+#
+#Sun Jan 17 22:16:15 CET 2021
+derivedResources=.gradle\:build\:modules/build\:modules/liferay-chat/build\:modules/liferay-chat/liferay-chat-api/build\:modules/liferay-chat/liferay-chat-service/build\:modules/liferay-chat/liferay-chat-web/build
+linkedResources=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+managedNatures=org.eclipse.jdt.core.javanature
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildScriptPath=build.gradle
+subprojectPaths=modules\:modules/liferay-chat\:modules/liferay-chat/liferay-chat-api\:modules/liferay-chat/liferay-chat-service\:modules/liferay-chat/liferay-chat-web
+hasAutoBuildTasks=false
+gradleVersion=6.4.1

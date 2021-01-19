@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+/Users/Federico/Documents/liferay/liferay-chat-72/liferay-72-mysql-db/.metadata/.plugins/org.eclipse.jdt.core
+4016017288.index
+1465360195.index
+596225145.index
+1241799694.index
+3845162338.index
+2209685789.index
+4067800350.index
+3943805888.index
+1926879086.index
+146372951.index
+2541008718.index
+1576822076.index
+1613819628.index
+3868378109.index
+64961845.index
+1473010464.index
+3796331320.index
+1576363256.index
+473917952.index
+234390629.index
+2563047915.index
+966600353.index
+2525168635.index

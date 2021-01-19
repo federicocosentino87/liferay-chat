@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.java_websocket.server.WebSocketServer"/>
+    <fullyQualifiedTypeName name="liferay.chat.model.Message"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+    <fullyQualifiedTypeName name="org.java_websocket.WebSocket"/>
+    <fullyQualifiedTypeName name="liferay.chat.model.MessageType"/>
+    <fullyQualifiedTypeName name="com.liferay.portal.kernel.log.Log"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.liferay.portal.kernel.log.LogFactoryUtil"/>
+    <fullyQualifiedTypeName name="liferay.chat.service.sever.impl.ChatServerImpl"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="liferay.chat.model.ChatUser"/>
+    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
+    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Reference"/>
+    <fullyQualifiedTypeName name="liferay.chat.server.ChatServer"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+</qualifiedTypeNameHistroy>
