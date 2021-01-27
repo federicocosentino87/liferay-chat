@@ -1,0 +1,4 @@
+Bundle-Name: liferay-chat-message
+Bundle-SymbolicName: liferay.chat.message
+Bundle-Version: 1.0.0
+Export-Package: liferay.chat.message.api

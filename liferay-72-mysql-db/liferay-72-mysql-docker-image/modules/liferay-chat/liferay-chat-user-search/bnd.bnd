@@ -1,0 +1,4 @@
+Bundle-Name: liferay-chat-user-search
+Bundle-SymbolicName: liferay.chat.user.search
+Bundle-Version: 1.0.0
+Export-Package: liferay.chat.user.search.api

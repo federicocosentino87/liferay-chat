@@ -1,10 +1,9 @@
 Bundle-Name: liferay-chat-api
 Bundle-SymbolicName: liferay.chat.api
 Bundle-Version: 1.0.0
-Export-Package:\
-	liferay.chat.exception,\
+Export-Package: \
+	liferay.chat.decoder,\
+	liferay.chat.jedis.pub.sub,\
 	liferay.chat.model,\
-	liferay.chat.service,\
-	liferay.chat.service.persistence
--check: EXPORTS
--includeresource: META-INF/service.xml=../liferay-chat-service/service.xml
+	liferay.chat.session,\
+	liferay.chat.jedis.pub.sub.base
