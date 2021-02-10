@@ -1,7 +1,0 @@
-package liferay.chat.service.sever.impl;
-
-import org.java_websocket.server.WebSocketServer;
-
-public class ChatServerImpl extends WebSocketServer {
-
-}

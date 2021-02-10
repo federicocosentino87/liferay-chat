@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.java_websocket.server.WebSocketServer"/>
-    <fullyQualifiedTypeName name="liferay.chat.model.Message"/>
-    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
-    <fullyQualifiedTypeName name="org.java_websocket.WebSocket"/>
-    <fullyQualifiedTypeName name="liferay.chat.model.MessageType"/>
-    <fullyQualifiedTypeName name="com.liferay.portal.kernel.log.Log"/>
-    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
-    <fullyQualifiedTypeName name="com.liferay.portal.kernel.log.LogFactoryUtil"/>
-    <fullyQualifiedTypeName name="liferay.chat.service.sever.impl.ChatServerImpl"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="liferay.chat.model.ChatUser"/>
-    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
-    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Reference"/>
-    <fullyQualifiedTypeName name="liferay.chat.server.ChatServer"/>
-    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="org.java_websocket.server.WebSocketServer"/>
+<fullyQualifiedTypeName name="liferay.chat.model.Message"/>
+<fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+<fullyQualifiedTypeName name="org.java_websocket.WebSocket"/>
+<fullyQualifiedTypeName name="liferay.chat.model.MessageType"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.log.Log"/>
+<fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
+<fullyQualifiedTypeName name="liferay.chat.service.sever.impl.ChatServerImpl"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="liferay.chat.model.ChatUser"/>
+<fullyQualifiedTypeName name="liferay.chat.server.ChatServer"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Reference"/>
+<fullyQualifiedTypeName name="org.osgi.framework.BundleActivator"/>
+<fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+<fullyQualifiedTypeName name="javax.websocket.Endpoint"/>
+<fullyQualifiedTypeName name="liferay.chat.service.endpoint.WebSocketEndpoint"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.log.LogFactoryUtil"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.JedisPubSub"/>
+<fullyQualifiedTypeName name="javax.websocket.Session"/>
+<fullyQualifiedTypeName name="liferay.chat.service.jedis.pub.sub.impl.JedisPubSubImpl"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.model.UserConstants"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.util.PortalUtil"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.json.JSONObject"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.json.JSONFactory"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.json.JSONFactoryUtil"/>
 </qualifiedTypeNameHistroy>

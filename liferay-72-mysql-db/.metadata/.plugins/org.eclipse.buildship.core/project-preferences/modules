@@ -1,12 +1,11 @@
 #
-#Sun Jan 17 22:16:15 CET 2021
-derivedResources=.gradle\:build\:liferay-chat/build\:liferay-chat/liferay-chat-api/build\:liferay-chat/liferay-chat-service/build\:liferay-chat/liferay-chat-web/build
-linkedResources=
+#Wed Jan 27 21:35:52 CET 2021
 classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=liferay-chat\:liferay-chat/liferay-chat-api\:liferay-chat/liferay-chat-message\:liferay-chat/liferay-chat-service\:liferay-chat/liferay-chat-user-search\:liferay-chat/liferay-chat-web
 managedNatures=
+hasAutoBuildTasks=false
 buildDir=build
 managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
-buildScriptPath=build.gradle
-subprojectPaths=liferay-chat\:liferay-chat/liferay-chat-api\:liferay-chat/liferay-chat-service\:liferay-chat/liferay-chat-web
-hasAutoBuildTasks=false
-gradleVersion=6.4.1
+derivedResources=.gradle\:build\:liferay-chat/build\:liferay-chat/liferay-chat-api/build\:liferay-chat/liferay-chat-message/build\:liferay-chat/liferay-chat-service/build\:liferay-chat/liferay-chat-user-search/build\:liferay-chat/liferay-chat-web/build

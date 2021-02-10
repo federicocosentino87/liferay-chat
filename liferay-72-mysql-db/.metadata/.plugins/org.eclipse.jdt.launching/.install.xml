@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="/Users/Federico/.sdkman/candidates/java/11.0.9.j9-adpt" stamp="1603489862000"/>
-    <entry loc="/Users/Federico/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.1.v20201027-0507" stamp="1609782230235"/>
+<entry loc="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.201.b09-6.fc30.x86_64" stamp="1556245551000"/>
+<entry loc="/Users/Federico/.sdkman/candidates/java/11.0.9.j9-adpt" stamp="1603489862000"/>
+<entry loc="/Users/Federico/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.1.v20201027-0507" stamp="1609782230235"/>
 </dirs>
